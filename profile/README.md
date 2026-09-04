@@ -1,5 +1,3 @@
-# .github
-
 # FF Horizon Studio
 
 ### Building ideas into digital experiences.
