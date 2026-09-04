@@ -1,66 +1,25 @@
 # FF Horizon Studio
 
-### Building ideas into digital experiences.
+The freelance practice of Francesco Foresta. I build software, automations and web products, end to end.
 
-FF Horizon Studio is the professional brand of an independent freelance developer focused on creating modern software, intelligent solutions, and digital experiences.
+## What I build
 
-I explore the intersection of **software development, artificial intelligence,
-cloud technologies, and creative technology**, turning ideas into practical,
-well-designed projects.
+**Web and mobile applications.** From the data model to the interface, shipped and maintained.
 
----
+**Automation and internal tooling.** Scripts, bots and integrations that remove manual work from processes that run on documents, languages and training.
 
-## 🚀 What I Build
+**AI-assisted products.** Practical applications of language models inside real workflows, not demos.
 
-- 🌐 **Web Applications** — Modern, responsive, and user-focused experiences
-- 🤖 **AI-Powered Solutions** — Exploring practical applications of artificial intelligence
-- ☁️ **Cloud Solutions** — Building and experimenting with cloud-native technologies
-- 🛠️ **Developer Tools** — Utilities and tools designed to solve real problems
-- 🎮 **Interactive Experiences** — Creative software and game development projects
-- 🧪 **Experiments & Research** — Exploring new technologies, frameworks, and ideas
+## Stack
 
----
+Python · JavaScript · TypeScript · Flutter · Firebase · AWS
 
-## 🧭 My Approach
+## Work with me
 
-I believe technology should be:
+[ffhorizon.studio](https://ffhorizon.studio) · hello@ffhorizon.studio
 
-**Useful. Thoughtful. Accessible. Creative.**
-
-Every project is an opportunity to learn, experiment, and build something
-that makes technology more useful to people.
+Working languages: Italian and English.
 
 ---
 
-## 🛠️ Technology
-
-My projects may include technologies such as:
-
-`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Flutter`  
-`Firebase` · `AWS` · `AI / Machine Learning` · `Git` · `GitHub`
-
-The stack evolves as I explore new technologies and build new projects.
-
----
-
-## 📂 Projects
-
-This GitHub organization is the home of FF Horizon Studio's open-source,
-experimental, and portfolio projects.
-
-You'll find projects ranging from small experiments and learning projects
-to complete applications and digital products.
-
-More projects are coming soon.
-
----
-
-## 🌐 FF Horizon Studio
-
-**Technology · Software · AI · Digital Experiences**
-
-Website: https://ffhorizon.studio
-
----
-
-<sub>FF Horizon Studio™ is a trademark of Francesco Foresta. © 2026 FF Horizon Studio. Built with curiosity, creativity, and code.</sub>
+FF Horizon Studio™ is a trademark of Francesco Foresta. © 2026
